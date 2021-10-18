@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rachnus/osrs-gimp-tracker-frontend.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rachnus/osrs-gimp-tracker-frontend/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Rachnus/osrs-gimp-tracker-frontend#readme"
+  "homepage": ""
 }
