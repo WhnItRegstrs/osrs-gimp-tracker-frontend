@@ -1,11 +1,19 @@
 {
-  "requires": true,
-  "lockfileVersion": 1,
-  "dependencies": {
-    "fontfaceobserver": {
-      "version": "2.1.0",
-      "resolved": "https://registry.npmjs.org/fontfaceobserver/-/fontfaceobserver-2.1.0.tgz",
-      "integrity": "sha512-ReOsO2F66jUa0jmv2nlM/s1MiutJx/srhAe2+TE8dJCMi02ZZOcCTxTCQFr3Yet+uODUtnr4Mewg+tNQ+4V1Ng=="
-    }
-  }
+  "name": "osrs-gimp-tracker-frontend",
+  "version": "1.0.0",
+  "description": "Front end for tracking OSRS clients (Data received from backend, and backend receives data from runelite plugin)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachnus/osrs-gimp-tracker-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachnus/osrs-gimp-tracker-frontend/issues"
+  },
+  "homepage": "https://github.com/Rachnus/osrs-gimp-tracker-frontend#readme"
 }
